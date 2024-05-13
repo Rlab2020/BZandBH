@@ -1,6 +1,6 @@
 ### EXPOSURE
-benzene_c: categorized benzene, low (<0.62 μg/m3), moderate (0.62-0.81 μg/m3) and high (>0.81 μg/m3);
-benzene_iqr: benzene per IQR (0.30 μg/m3);
+benzene_c: categorized benzene, low (<0.62 μg/m3), moderate (0.62-0.81 μg/m3) and high (>0.81 μg/m3);  
+benzene_iqr: benzene per IQR (0.30 μg/m3);  
 
 ### DEMORGRAPHIC FACTORS
 age: continuous variable;
