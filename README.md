@@ -23,12 +23,12 @@ road: categorical variable （yes/no）;
 lden: categorical variable （high/low）;
 
 ### PRIMARY OUTCOMES
-Dementia: ICD-9: 290, 291.2, 294.1, 331; ICD-10: F00, F01, F02, F03, F05.1, F10.6, G30, G31, I67.3
-PD: ICD-9: 332; ICD-10: G20
-Epilepsy: ICD-9: 345; ICD-10: G40, G41
-Migraine: ICD-9: 346; ICD-10: G43
-MDD: ICD-9: 311, 290.6, 296.2; ICD-10: F32, F33
-Anxiety disorder: ICD-9: 300.0, 296.0, 296.2; ICD-10: F40, F41
+Dementia: ICD-9: 290, 291.2, 294.1, 331; ICD-10: F00, F01, F02, F03, F05.1, F10.6, G30, G31, I67.3;
+PD: ICD-9: 332; ICD-10: G20;
+Epilepsy: ICD-9: 345; ICD-10: G40, G41;
+Migraine: ICD-9: 346; ICD-10: G43;
+MDD: ICD-9: 311, 290.6, 296.2; ICD-10: F32, F33;
+Anxiety disorder: ICD-9: 300.0, 296.0, 296.2; ICD-10: F40, F41;
 ### SECONDARY OUTCOMES
 Subcortical structures: nucleus accumbens; amygdala; caudate nucleus; hippocampus; globus pallidus; putamen; thalamus;
 Frontal lobe: caudal anterior cingulate cortex; caudal middle frontal gyrus; frontal pole; lateral orbitofrontal cortex; medial orbitofrontal cortex; paracentral lobule; pars opercularis; pars orbitalis; pars triangularis; precentral gyrus; rostral anterior cingulate cortex; rostral middle frontal gyrus; superior frontal gyrus;
