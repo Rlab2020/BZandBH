@@ -1,4 +1,4 @@
-![image](https://github.com/Rlab2020/BZandBH/assets/107493985/6b0180b6-27ff-4879-9335-8fa45e56bc8c)![image](https://github.com/Rlab2020/BZandBH/assets/107493985/2dc65e2f-ac30-4885-9b75-1bae1aa670cb)### EXPOSURE
+### EXPOSURE
 benzene_c: categorized benzene, low (<0.62 μg/m3), moderate (0.62-0.81 μg/m3) and high (>0.81 μg/m3);
 benzene_iqr: benzene per IQR (0.30 μg/m3);
 
