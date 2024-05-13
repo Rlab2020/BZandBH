@@ -37,8 +37,3 @@ Temporal lobe:
 Parietal lobe:
 Occipital lobe: 
 Insula lobe: 
-
-
-
-
-fsp+road+lden+age+sex+imd+occup+cci0+whr+nosmoking+nodrinking+sleeph+regular+dieth
