@@ -1,3 +1,6 @@
+Code utilized in paper "Long-Term Exposure to Ambient Benzene and Brain Disorders Among Urban Adults"
+
+
 ### EXPOSURE
 benzene_c: categorized benzene, low (<0.62 μg/m3), moderate (0.62-0.81 μg/m3) and high (>0.81 μg/m3);  
 benzene_iqr: benzene per IQR (0.30 μg/m3);  
